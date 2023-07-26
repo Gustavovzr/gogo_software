@@ -106,7 +106,6 @@
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
 
-    <!-- Titulo: Prefere procurar os produtos na nossa lista? -->
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
@@ -114,7 +113,7 @@
         android:layout_marginStart="2dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="2dp"
-        android:text="Prefere procurar os produtos na nossa lista?"
+        android:text="Prefere procurar na lista de produtos?"
         android:textAlignment="center"
         android:textColor="#353535"
         android:textSize="30sp"
@@ -126,7 +125,6 @@
         app:layout_constraintTop_toBottomOf="@+id/cardView"
         app:layout_constraintVertical_bias="0.023" />
 
-    <!-- Btn dizendo para acessar lista de produtos -->
     <Button
         android:id="@+id/listaProdutos"
         android:layout_width="wrap_content"
@@ -137,7 +135,7 @@
         android:text="Acessar lista de produtos"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
-        android:textSize="26sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
