@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\content_instrucoes.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\content_instrucoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_cancelar_compra.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_cancelar_compra.xml"
+    },
+    {
+        "merged": "com.realdish.gogosoft.app-mergeDebugResources-42:/layout/activity_instrucoes.xml",
+        "source": "com.realdish.gogosoft.app-main-45:/layout/activity_instrucoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\activity_instrucoes.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\activity_instrucoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-mergeDebugResources-42:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\henri\\.gradle\\daemon\\7.5\\com.realdish.gogosoft.app-main-45:\\layout\\fragment_notifications.xml"
+    }
+]
